@@ -55,7 +55,7 @@ class House {
 
 let h1 = new House("500mm", "Blue" ,"2", "200m");
 let h2 = new House("600m", "Red", "3","210m")
-console.log(h1,+"\n"+h2)
+console.log(h1+"\n"+h2)
 
 // r1.room = "bedroom";
 // r1.color ="blue";
